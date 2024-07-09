@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhjnX
+- 👋 Hi, I’m Bui Hoang Phi
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs ...
 
