@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bui-ho%C3%A0ng-phi-91a69b300/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/PhjnX"><img src="https://komarev.com/ghpvc/?username=PhjnX&style=for-the-badge&color=0e75b6" alt="Profile views"/></a>
 </p>
 
 ---
