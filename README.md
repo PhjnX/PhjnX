@@ -41,17 +41,6 @@ React Native · Expo · WooCommerce · Elementor · Custom plugins & ACF · REST
 - **WooCommerce stores for German clients** — B2C/B2B setup, custom product fields, bug fixing and performance tuning.
 - **Corporate websites with WordPress + Elementor** — layout, responsive, on-page SEO.
 
-### Featured projects
-
-| Project | Stack | Links |
-|---|---|---|
-| Event app — web | TypeScript | [Code](https://github.com/PhjnX/event-app-frontend) |
-| Event app — mobile | React Native, TypeScript | [Code](https://github.com/PhjnX/event-app-mobile) |
-| E-commerce | Next.js, TypeScript | [Code](https://github.com/PhjnX/webie-nextjs-ecommerce) |
-| Wine cellar | TypeScript | [Code](https://github.com/PhjnX/webie-wine-project) · [Demo](https://webie-cellar.vercel.app) |
-| English learning website | TypeScript | [Code](https://github.com/PhjnX/english-website) · [Demo](https://english-website-beta.vercel.app) |
-| Map project | TypeScript | [Code](https://github.com/PhjnX/map-project) · [Demo](https://map-project-five.vercel.app) |
-
 ### GitHub stats
 
 <p align="center">
