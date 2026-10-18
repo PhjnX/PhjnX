@@ -2,9 +2,6 @@
   <img src="./assets/banner.svg" alt="Bui Hoang Phi — Frontend Developer" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bui-ho%C3%A0ng-phi-91a69b300/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" height="32"/></a>
-</p>
 
 ## About
 
