@@ -43,11 +43,14 @@ React Native · Expo · WooCommerce · Elementor · Custom plugins & ACF · REST
 
 ### Featured projects
 
-| Project | Stack | Description |
+| Project | Stack | Links |
 |---|---|---|
-| [shoppingonline](https://github.com/PhjnX/shoppingonline) | JavaScript | E-commerce web app |
-| [React_Capstone](https://github.com/PhjnX/React_Capstone) | React | Capstone project with React |
-| [Capstone-Tailwind-CSS](https://github.com/PhjnX/Capstone-Tailwind-CSS_Nhom-6) | HTML, Tailwind | Team landing page using Tailwind CSS |
+| Event app — web | TypeScript | [Code](https://github.com/PhjnX/event-app-frontend) |
+| Event app — mobile | React Native, TypeScript | [Code](https://github.com/PhjnX/event-app-mobile) |
+| E-commerce | Next.js, TypeScript | [Code](https://github.com/PhjnX/webie-nextjs-ecommerce) |
+| Wine cellar | TypeScript | [Code](https://github.com/PhjnX/webie-wine-project) · [Demo](https://webie-cellar.vercel.app) |
+| English learning website | TypeScript | [Code](https://github.com/PhjnX/english-website) · [Demo](https://english-website-beta.vercel.app) |
+| Map project | TypeScript | [Code](https://github.com/PhjnX/map-project) · [Demo](https://map-project-five.vercel.app) |
 
 ### GitHub stats
 
