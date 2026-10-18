@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bui-ho%C3%A0ng-phi-91a69b300/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Location-Ho_Chi_Minh_City-1E293B?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location"/>
+  <a href="https://www.linkedin.com/in/bui-ho%C3%A0ng-phi-91a69b300/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" height="32"/></a>
 </p>
 
 ## About
