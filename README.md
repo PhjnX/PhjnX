@@ -2,6 +2,11 @@
   <img src="./assets/banner.svg" alt="Bui Hoang Phi — Frontend Developer" width="100%"/>
 </p>
 
+<p align="center">
+  <a href="https://phjn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-phjn.vercel.app-1E293B?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/buihoangphi"><img src="https://img.shields.io/badge/LinkedIn-buihoangphi-1E293B?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+</p>
+
 
 ## About
 
@@ -42,6 +47,11 @@ Frontend developer focused on building clean, responsive interfaces for web and 
 
 **Education** · Bachelor of IT (Software Technology) · Van Lang University · 2021 – 2025
 
+## Projects
+
+- **[Portfolio](https://phjn.vercel.app)** — personal portfolio site, deployed on Vercel.
+- **[VietQR Checkout](https://github.com/PhjnX/vietqr-checkout)** — WooCommerce payment plugin that generates VietQR codes at checkout.
+
 ## Activity
 
 <p align="center">
@@ -50,4 +60,4 @@ Frontend developer focused on building clean, responsive interfaces for web and 
 
 ---
 
-<p align="center"><sub>Personal projects are on the way — stay tuned.</sub></p>
+<p align="center"><sub>More about me at <a href="https://phjn.vercel.app">phjn.vercel.app</a></sub></p>
