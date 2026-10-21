@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://phjn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-phjn.vercel.app-1E293B?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/buihoangphi"><img src="https://img.shields.io/badge/LinkedIn-buihoangphi-1E293B?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/b%C3%B9i-ho%C3%A0ng-phi-91a69b300"><img src="https://img.shields.io/badge/LinkedIn-Bui%20Hoang%20Phi-1E293B?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 </p>
 
 
