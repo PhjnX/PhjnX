@@ -49,6 +49,7 @@ Frontend developer focused on building clean, responsive interfaces for web and 
 
 ## Projects
 
+- **[Phjn Coffee](https://github.com/PhjnX/phjn-coffee)** — order-at-table system for a café: customers scan the table QR to order, staff manage orders, menu and printable QR cards in an admin dashboard. Next.js · TypeScript · Supabase · Zustand. [Live demo](https://phjn-coffee.vercel.app)
 - **[Portfolio](https://phjn.vercel.app)** — personal portfolio site, deployed on Vercel.
 - **[VietQR Checkout](https://github.com/PhjnX/vietqr-checkout)** — WooCommerce payment plugin that generates VietQR codes at checkout.
 
